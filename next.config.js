@@ -1,6 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'export',
+  basePath: '/ccoi-asia-2026',
   images: {
     unoptimized: true
   }

@@ -1,8 +1,11 @@
 {
-  "/sponsors/page": "app/sponsors/page.js",
-  "/speakers/page": "app/speakers/page.js",
-  "/agenda/page": "app/agenda/page.js",
+  "/_not-found": "app/_not-found.js",
   "/about/page": "app/about/page.js",
+  "/agenda/page": "app/agenda/page.js",
+  "/contact/page": "app/contact/page.js",
+  "/login/page": "app/login/page.js",
   "/page": "app/page.js",
-  "/contact/page": "app/contact/page.js"
+  "/speakers/page": "app/speakers/page.js",
+  "/sponsors/page": "app/sponsors/page.js",
+  "/dashboard/page": "app/dashboard/page.js"
 }
