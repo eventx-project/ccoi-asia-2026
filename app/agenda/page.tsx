@@ -193,7 +193,7 @@ function AgendaContent() {
              {allThemes.map(theme => (
                <button
                  key={theme}
-                 onClick={() => setSelectedTheme(theme)}
+                 onClick={() => setSelectedTheme(selectedTheme === theme ? 'All' : theme)}
                  className={`whitespace-nowrap px-3 py-1.5 rounded-full text-xs font-medium transition-all ${
                    selectedTheme === theme 
                      ? 'bg-[#2E5B8D] text-white shadow-md shadow-[#2E5B8D]/20 ring-2 ring-[#2E5B8D]/20 ring-offset-1' 

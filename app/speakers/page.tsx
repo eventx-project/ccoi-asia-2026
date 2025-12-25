@@ -319,7 +319,7 @@ function SpeakersContent() {
           ))}
         </main>
 
-        <aside className="w-10 bg-transparent py-4 flex flex-col items-center gap-1 fixed right-0 top-32 bottom-24 overflow-y-auto z-40">
+        <aside className="w-10 bg-transparent py-4 flex flex-col items-center gap-1 fixed right-0 top-44 bottom-24 overflow-y-auto z-40">
           {letters.map((letter) => (
             <button
               key={letter}
