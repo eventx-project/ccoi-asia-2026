@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import Image from 'next/image';
 import { Calendar, Users, Info, Network, ClipboardList, BookOpen } from 'lucide-react';
+import { getImagePath } from '../lib/utils';
 
 export default function Home() {
   const quickLinks = [
@@ -26,7 +27,7 @@ export default function Home() {
         <div className="text-center flex-shrink-0">
           <div className="inline-flex items-center justify-center mb-2">
             <Image 
-              src="/ccoi-logo.png" 
+              src={getImagePath("/ccoi-logo.png")}
               alt="CCOI Logo" 
               width={80} 
               height={80}
@@ -38,7 +39,7 @@ export default function Home() {
           {/* Event Banner */}
           <div className="mb-2 max-w-3xl mx-auto">
             <Image 
-              src="/images/event-banner.jpg" 
+              src={getImagePath("/images/event-banner.jpg")}
               alt="CCOI Asia 2026 Event Banner" 
               width={1200} 
               height={400}

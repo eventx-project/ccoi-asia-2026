@@ -3,6 +3,7 @@ import { useMemo, useState } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 import agendaData from '../../data/agenda.json';
+import { getImagePath } from '../../lib/utils';
 
 // Import speaker images mapping if it exists
 let speakerImageMap: Record<string, string> = {};
@@ -198,7 +199,7 @@ export default function SpeakersPage() {
                     {speakerImageMap[sp.slug] ? (
                       <div className="w-12 h-12 rounded-full overflow-hidden bg-gray-200 flex-shrink-0">
                         <Image
-                          src={speakerImageMap[sp.slug]}
+                          src={getImagePath(speakerImageMap[sp.slug])}
                           alt={sp.name}
                           width={48}
                           height={48}
@@ -244,7 +245,7 @@ export default function SpeakersPage() {
               {speakerImageMap[selected.slug] ? (
                 <div className="w-16 h-16 rounded-full overflow-hidden bg-gray-200 flex-shrink-0">
                   <Image
-                    src={speakerImageMap[selected.slug]}
+                    src={getImagePath(speakerImageMap[selected.slug])}
                     alt={selected.name}
                     width={64}
                     height={64}
