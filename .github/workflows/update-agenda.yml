@@ -6,11 +6,20 @@ on:
     - cron: '0 0 * * *'
   workflow_dispatch: # Allows manual trigger from GitHub Actions tab
 
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
 jobs:
   update-agenda:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write # Needed to push changes back to the repo
+    outputs:
+      has_changes: ${{ steps.check_changes.outputs.has_changes }}
     
     steps:
       - name: Checkout code
@@ -26,22 +35,62 @@ jobs:
         run: npm ci
 
       - name: Create credentials file
-        # We write the secret content to the file expected by the script
         run: echo '${{ secrets.GOOGLE_CREDENTIALS }}' > google-credentials.json
 
       - name: Fetch data from Google Sheets
         run: npm run update-agenda
 
       - name: Commit and push changes
+        id: check_changes
         run: |
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
-          # Check if agenda.json has changed
+          
           if [[ -n $(git status --porcelain data/agenda.json) ]]; then
             git add data/agenda.json
             git commit -m "Auto-update agenda from Google Sheets"
             git push
+            echo "has_changes=true" >> $GITHUB_OUTPUT
             echo "✅ Agenda updated and pushed."
           else
+            echo "has_changes=false" >> $GITHUB_OUTPUT
             echo "No changes in agenda data."
           fi
+
+  deploy:
+    needs: update-agenda
+    if: ${{ needs.update-agenda.outputs.has_changes == 'true' || github.event_name == 'workflow_dispatch' }}
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          ref: main # Ensure we pull the latest commit we just pushed
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build with Next.js
+        run: npm run build
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./out
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
