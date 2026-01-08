@@ -389,7 +389,7 @@
         "panelists": [],
         "chairs": [
           "Mingguang HE (Hong Kong)",
-          "Toshihide KURIHARA (Japan) – TBC"
+          "Seang Mei SAW (Singapore)"
         ],
         "description": "",
         "block": "14:05–14:13"
@@ -428,7 +428,7 @@
         "title": "TBC",
         "location": "Grand III, IV & Annex",
         "speakers": [
-          "Toshihide KURIHARA (Japan)"
+          "Jason SUN (Australia)"
         ],
         "moderators": [],
         "panelists": [],
@@ -909,7 +909,7 @@
       {
         "time": "08:50–09:50",
         "theme": "Session 2a: Bringing Ophthalmic Innovations into the Real World – Crossing the Academic Valley of Death",
-        "title": "Roudtable Discussion",
+        "title": "Roundtable Discussion",
         "location": "Grand III, IV & Annex",
         "speakers": [],
         "moderators": [],
@@ -934,7 +934,7 @@
       {
         "time": "09:50–10:50",
         "theme": "Session 2b: AI Adoption in the Eye Industries: Now and Future",
-        "title": "Roudtable Discussion",
+        "title": "Roundtable Discussion",
         "location": "Grand III, IV & Annex",
         "speakers": [],
         "moderators": [],
@@ -943,7 +943,7 @@
           "Gregory KUNST (U.S./Valitor)",
           "Ed THORPE (New Zealand/Roche)",
           "Jodie MADDEN (Singapore/Astellas)",
-          "Ram PALANSKI (U.S./Regenxbio)",
+          "Ram PALANKI (U.S./Regenxbio)",
           "Lavin ACHUDAN (Singapore/Santen)",
           "Fabio BASCHIERA (Germany/Boehringer)",
           "Danny SOON (Singapore/CRIS)"
@@ -1516,7 +1516,7 @@
       {
         "time": "16:30–17:50",
         "theme": "Session 7: Robotics Innovation",
-        "title": "Regulatory Considerations for Robotic Surgical Systems",
+        "title": "What Robotics and AI Will Change About Ophthalmic Surgery",
         "location": "Grand Ballroom",
         "speakers": [
           "Binita ASHAR (U.S.)"
