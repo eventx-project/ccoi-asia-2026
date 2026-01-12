@@ -82,7 +82,7 @@ async function scrapeSpeakers() {
       const srcMatch = imgTag.match(/src="([^"]+)"/);
       
       // Look ahead for the <a> tag with the name
-      const after = html.substring(startPos, startPos + 200);
+      const after = html.substring(startPos, startPos + 1000);
       const nameMatch = after.match(/<a[^>]*>([^<]+)<\/a>/);
       
       if (srcMatch && nameMatch) {
