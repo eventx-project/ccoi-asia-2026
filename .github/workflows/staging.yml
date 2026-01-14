@@ -35,7 +35,7 @@ jobs:
       - name: Build with Next.js (Staging)
         run: npx next build
         env:
-          NEXT_PUBLIC_BASE_PATH: /ccoi-asia-2026-staging
+          NEXT_PUBLIC_BASE_PATH: ''
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
