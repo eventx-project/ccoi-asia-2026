@@ -324,7 +324,7 @@
         "title": "Global Regulatory Pathways for Myopia Drugs",
         "location": "Grand Ballroom",
         "speakers": [
-          "Tieuvu NGUYEN (U.S.)"
+          "Tieuvi NGUYEN (U.S.)"
         ],
         "moderators": [],
         "panelists": [],
@@ -372,7 +372,8 @@
         "moderators": [],
         "panelists": [],
         "chairs": [
-          "Mingguang HE (Hong Kong)"
+          "Mingguang HE (Hong Kong)",
+          "Chea-Su KEE (Hong Kong)"
         ],
         "description": "",
         "block": "12:45–12:50"
@@ -408,7 +409,7 @@
       {
         "time": "12:45–13:45",
         "theme": "CCOI-RCSV Lunch Symposium",
-        "title": "Research Centre for SHARP Vision and Wuhan Mainland Translational Research Institute",
+        "title": "An Integrated AI Ecosystem for Healthcare",
         "location": "Grand Ballroom",
         "speakers": [
           "Mingguang HE (Hong Kong)"
@@ -831,11 +832,13 @@
         "theme": "Opening Session",
         "title": "A Roundtable on Building a Sustainable Platform – Lessons from OIS",
         "location": "Grand Ballroom",
-        "speakers": [
-          "Emmett CUNNINGHAM (U.S.)"
-        ],
+        "speakers": [],
         "moderators": [],
-        "panelists": [],
+        "panelists": [
+          "Emmett CUNNINGHAM (U.S.)",
+          "Malvina EYDELMAN (U.S.)",
+          "Daniel TING (Singapore)"
+        ],
         "chairs": [],
         "description": "",
         "block": "08:20–08:40"
@@ -973,7 +976,7 @@
       {
         "time": "09:00–11:00",
         "theme": "Session 1: Defining the Future – Establishing Standard Terminology & Endpoints for Oculomics",
-        "title": "Expanding Occulomics through AI, Proteomics, EHR, and Imaging Data",
+        "title": "Expanding Oculomics through AI, Proteomics, EHR, and Imaging Data",
         "location": "Grand Ballroom",
         "speakers": [
           "Vinit MAHAJAN (U.S.)"
@@ -1731,7 +1734,7 @@
         "title": "From Innovation to Adoption: Regulating Robotics in Ophthalmology",
         "location": "Grand Ballroom",
         "speakers": [
-          "Tieuvu NGUYEN (U.S.)"
+          "Tieuvi NGUYEN (U.S.)"
         ],
         "moderators": [],
         "panelists": [],
