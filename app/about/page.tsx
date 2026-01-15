@@ -1,5 +1,7 @@
 import Link from 'next/link';
+import Image from 'next/image';
 import aboutData from '../../data/about.json';
+import { getImagePath } from '../../lib/utils';
 
 // Helper to convert text with URLs into clickable links
 const renderWithLinks = (text: string) => {
@@ -39,6 +41,16 @@ export default function AboutPage() {
       </header>
 
       <main className="p-4 space-y-6 pt-28">
+        <div className="flex justify-center mb-2">
+            <Image
+              src={getImagePath('/ccoi-logo.png')}
+              alt="CCOI Logo"
+              width={300}
+              height={100}
+              className="w-auto h-24 object-contain"
+              priority
+            />
+        </div>
         {(aboutData as any[]).map((card, index) => (
           <section key={card.id || index} className="bg-white rounded-lg shadow-sm p-6">
             {/* Render grouped paragraphs for this card */}
