@@ -91,7 +91,7 @@
       {
         "time": "08:40–10:10",
         "theme": "Session 1: Key Parameters for Effective Myopia Control Products - Harmonizing Global Regulatory Approvals",
-        "title": "Spherical Equivalent — Defining Establishing Benefit",
+        "title": "Spherical Equivalent — Defining Meaningful Benefit",
         "location": "Grand Ballroom",
         "speakers": [
           "Chris HAMMOND (U.K.)"
@@ -122,7 +122,7 @@
         "title": "Long-Term Follow-Up of Effectiveness — Establishing Acceptable Evaluation",
         "location": "Grand Ballroom",
         "speakers": [
-          "Tsiang UNG (Malaysia)"
+          "Seo Wei LEO (Singapore)"
         ],
         "moderators": [],
         "panelists": [],
@@ -246,7 +246,7 @@
       {
         "time": "10:40–11:40",
         "theme": "Session 2: Lens Power – Shaping the Future",
-        "title": "TBC",
+        "title": "Myopia Control Approvals - Future Strategy for Global Launches",
         "location": "Grand Ballroom",
         "speakers": [
           "Nicholas WERNER (U.S.)"
@@ -395,20 +395,6 @@
       {
         "time": "12:45–13:45",
         "theme": "CCOI-RCSV Lunch Symposium",
-        "title": "Innovation in Ophthalmic Laser Technology",
-        "location": "Grand Ballroom",
-        "speakers": [
-          "John MARSHALL (U.K.)"
-        ],
-        "moderators": [],
-        "panelists": [],
-        "chairs": [],
-        "description": "",
-        "block": "12:55–13:05"
-      },
-      {
-        "time": "12:45–13:45",
-        "theme": "CCOI-RCSV Lunch Symposium",
         "title": "An Integrated AI Ecosystem for Healthcare",
         "location": "Grand Ballroom",
         "speakers": [
@@ -418,7 +404,7 @@
         "panelists": [],
         "chairs": [],
         "description": "",
-        "block": "13:05–13:15"
+        "block": "12:55–13:05"
       },
       {
         "time": "12:45–13:45",
@@ -432,12 +418,12 @@
         "panelists": [],
         "chairs": [],
         "description": "",
-        "block": "13:15–13:20"
+        "block": "13:05–13:10"
       },
       {
         "time": "12:45–13:45",
         "theme": "CCOI-RCSV Lunch Symposium",
-        "title": "Innovative Spectacle Lens for Myopia Control",
+        "title": "Microstructured Spectacle Lenses for Myopia Control",
         "location": "Grand Ballroom",
         "speakers": [
           "Dennis TSE (Hong Kong)"
@@ -446,7 +432,7 @@
         "panelists": [],
         "chairs": [],
         "description": "",
-        "block": "13:20–13:25"
+        "block": "13:10–13:15"
       },
       {
         "time": "12:45–13:45",
@@ -460,7 +446,7 @@
         "panelists": [],
         "chairs": [],
         "description": "",
-        "block": "13:25–13:30"
+        "block": "13:15–13:20"
       },
       {
         "time": "12:45–13:45",
@@ -474,7 +460,7 @@
         "panelists": [],
         "chairs": [],
         "description": "",
-        "block": "13:30–13:35"
+        "block": "13:20–13:25"
       },
       {
         "time": "12:45–13:45",
@@ -486,7 +472,7 @@
         "panelists": [],
         "chairs": [],
         "description": "",
-        "block": "13:35–13:45"
+        "block": "13:25–13:45"
       },
       {
         "time": "13:45–14:05",
@@ -552,7 +538,7 @@
       {
         "time": "14:05–15:15",
         "theme": "Session 4: Rays That Slow – Harnessing Light to Fight Myopia",
-        "title": "Light Therapy as a Novel Approach to Axial Length Reduction in High Myopia Patients",
+        "title": "Light Therapy as a Novel Approach to Manage High Myopia Patients in the Real World",
         "location": "Grand Ballroom",
         "speakers": [
           "Jason SUN (Australia)"
@@ -615,7 +601,7 @@
         "panelists": [],
         "chairs": [
           "Daniel TING (Singapore)",
-          "Daniela FERRARA (U.S.)"
+          "Ygal ROTENSTREICH (Israel)"
         ],
         "description": "",
         "block": "15:45–15:53"
@@ -651,10 +637,10 @@
       {
         "time": "15:45–16:45",
         "theme": "Session 5: Beyond the Horizon – Radical New Myopia Strategies",
-        "title": "Teleophthalmology & Digital Health for Myopia",
+        "title": "Myopia Control Parameters – the Current Biomarkers and Innovations",
         "location": "Grand Ballroom",
         "speakers": [
-          "Dinesh V. GUNASEKERAN (Singapore)"
+          "Tsiang UNG (Malaysia)"
         ],
         "moderators": [],
         "panelists": [],
@@ -799,6 +785,24 @@
       {
         "time": "08:00–09:00",
         "theme": "Opening Session",
+        "title": "Welcome",
+        "location": "Grand Ballroom",
+        "speakers": [
+          "Malvina EYDELMAN (U.S.)",
+          "Daniel TING (Singapore)"
+        ],
+        "moderators": [],
+        "panelists": [],
+        "chairs": [
+          "Malvina EYDELMAN (U.S.)",
+          "Daniel TING (Singapore)"
+        ],
+        "description": "",
+        "block": "08:00–08:03"
+      },
+      {
+        "time": "08:00–09:00",
+        "theme": "Opening Session",
         "title": "CCOI: Catalyst for Bringing Asia-Pacific Ophthalmic Innovation to Global Markets",
         "location": "Grand Ballroom",
         "speakers": [
@@ -811,42 +815,26 @@
           "Daniel TING (Singapore)"
         ],
         "description": "",
-        "block": "08:00–08:10"
+        "block": "08:03–08:10"
       },
       {
         "time": "08:00–09:00",
         "theme": "Opening Session",
-        "title": "Cultural Performance: Face-Changing",
+        "title": "Keynote Lecture 1: From Discovery to Delivery — Building the Path to Vision Care at Scale",
         "location": "Grand Ballroom",
         "speakers": [
-          "-"
+          "Hugh TAYLOR (Australia)"
         ],
         "moderators": [],
         "panelists": [],
         "chairs": [],
         "description": "",
-        "block": "08:10–08:20"
+        "block": "08:10–08:25"
       },
       {
         "time": "08:00–09:00",
         "theme": "Opening Session",
-        "title": "A Roundtable on Building a Sustainable Platform – Lessons from OIS",
-        "location": "Grand Ballroom",
-        "speakers": [],
-        "moderators": [],
-        "panelists": [
-          "Emmett CUNNINGHAM (U.S.)",
-          "Malvina EYDELMAN (U.S.)",
-          "Daniel TING (Singapore)"
-        ],
-        "chairs": [],
-        "description": "",
-        "block": "08:20–08:40"
-      },
-      {
-        "time": "08:00–09:00",
-        "theme": "Opening Session",
-        "title": "Keynote Lecture: The Role of Academic, Industrial and Governmental Collaboration...",
+        "title": "Keynote Lecture 2: The Role of Academic, Industrial and Governmental Collaboration in Facilitating Innovation: A Personal Silicon Valley Perspective",
         "location": "Grand Ballroom",
         "speakers": [
           "Mark BLUMENKRANZ (U.S.)"
@@ -855,12 +843,30 @@
         "panelists": [],
         "chairs": [],
         "description": "",
+        "block": "08:25–08:40"
+      },
+      {
+        "time": "08:00–09:00",
+        "theme": "Opening Session",
+        "title": "Keynote Roundtable: Building a Sustainable Asia-Pacific Innovation Platform",
+        "location": "Grand Ballroom",
+        "speakers": [],
+        "moderators": [],
+        "panelists": [
+          "Emmett CUNNINGHAM (U.S.)",
+          "Hugh TAYLOR (Australia)",
+          "Mark BLUMENKRANZ (U.S.)",
+          "Malvina EYDELMAN (U.S.)",
+          "Daniel TING (Singapore)"
+        ],
+        "chairs": [],
+        "description": "",
         "block": "08:40–09:00"
       },
       {
         "time": "09:00–11:00",
         "theme": "Session 1: Defining the Future – Establishing Standard Terminology & Endpoints for Oculomics",
-        "title": "Why Do We Need to Define Standards for Oculomics?",
+        "title": "Why Do We Need to Standardize Endpoints in Oculomics?",
         "location": "Grand Ballroom",
         "speakers": [
           "T.Y. Alvin LIU (U.S.)"
@@ -869,7 +875,6 @@
         "panelists": [],
         "chairs": [
           "Carol CHEUNG (Hong Kong)",
-          "Daniela FERRARA (U.S.)",
           "Vinit MAHAJAN (U.S.)"
         ],
         "description": "",
@@ -1055,12 +1060,11 @@
           "Aaron LEE (U.S.)",
           "Malcolm NGIAM (Singapore)",
           "Anran RAN (Hong Kong)",
-          "Yih Chung THAM (Singapore)",
-          "Ehsan VAGHEFI (U.S.)"
+          "Yih Chung THAM (Singapore)"
         ],
         "chairs": [],
         "description": "",
-        "block": "10:44–11:00"
+        "block": "10:44–11:05"
       },
       {
         "time": "09:00–10:00",
@@ -1084,7 +1088,7 @@
           "Mark BLUMENKRANZ (U.S.)"
         ],
         "description": "",
-        "block": "08:50–09:50"
+        "block": "09:00–10:00"
       },
       {
         "time": "10:00–11:00",
@@ -1094,7 +1098,7 @@
         "speakers": [],
         "moderators": [],
         "panelists": [
-          "Catherine TRUITT (U.S./Alcon)",
+          "Shannon SPOCK (U.S./Alcon)",
           "Olga PRENAT (France/Essilor)",
           "Gregory KUNST (U.S./Valitor)",
           "Jodie MADDEN (Singapore/Astellas)",
@@ -1107,7 +1111,7 @@
           "Daniel TING (Singapore)"
         ],
         "description": "",
-        "block": "09:50–10:50"
+        "block": "10:00–11:00"
       },
       {
         "time": "11:30–12:50",
@@ -1199,7 +1203,7 @@
       {
         "time": "11:30–12:50",
         "theme": "Session 3: Glaucoma Innovation",
-        "title": "Innovating Glaucoma Visual Field Testing...",
+        "title": "Innovating Glaucoma Visual Field Testing: How MRF Online Perimetry Enables Accessible and Scalable Glaucoma Care in Asia and Beyond",
         "location": "Grand Ballroom",
         "speakers": [
           "George KONG (Australia)"
@@ -1246,6 +1250,20 @@
       {
         "time": "11:30–12:50",
         "theme": "Session 4: Anterior Segment – Innovation & Regenerative Medicine",
+        "title": "Device Design, Materials of Construction, and Their Contribution to Improved Clinical Outcomes",
+        "location": "Grand III, IV & Annex",
+        "speakers": [
+          "Anuraag SINGH (U.S.)"
+        ],
+        "moderators": [],
+        "panelists": [],
+        "chairs": [],
+        "description": "",
+        "block": "11:38–11:46"
+      },
+      {
+        "time": "11:30–12:50",
+        "theme": "Session 4: Anterior Segment – Innovation & Regenerative Medicine",
         "title": "EndoArt®: Redefining Corneal Edema Care",
         "location": "Grand III, IV & Annex",
         "speakers": [
@@ -1255,7 +1273,7 @@
         "panelists": [],
         "chairs": [],
         "description": "",
-        "block": "11:38–11:46"
+        "block": "11:46–11:54"
       },
       {
         "time": "11:30–12:50",
@@ -1269,7 +1287,7 @@
         "panelists": [],
         "chairs": [],
         "description": "",
-        "block": "11:46–11:54"
+        "block": "11:54–12:02"
       },
       {
         "time": "11:30–12:50",
@@ -1278,20 +1296,6 @@
         "location": "Grand III, IV & Annex",
         "speakers": [
           "Ying JIE (China)"
-        ],
-        "moderators": [],
-        "panelists": [],
-        "chairs": [],
-        "description": "",
-        "block": "11:54–12:02"
-      },
-      {
-        "time": "11:30–12:50",
-        "theme": "Session 4: Anterior Segment – Innovation & Regenerative Medicine",
-        "title": "Device Design, Materials of Construction, and Their Contribution to Improved Clinical Outcomes",
-        "location": "Grand III, IV & Annex",
-        "speakers": [
-          "Anuraag SINGH (U.S.)"
         ],
         "moderators": [],
         "panelists": [],
@@ -1341,10 +1345,11 @@
       },
       {
         "time": "12:50–13:50",
-        "theme": "Alcon-Sponsored Networking Lunch",
-        "title": "Alcon R&D Seed Fund and Alcon BD&L",
+        "theme": "Networking Lunch",
+        "title": "Alcon External Innovation Partnerships & Investments",
         "location": "Grand Ballroom",
         "speakers": [
+          "Catherine TRUITT (U.S.)",
           "Shannon SPOCK (U.S.)"
         ],
         "moderators": [],
@@ -1355,8 +1360,8 @@
       },
       {
         "time": "12:50–13:50",
-        "theme": "Alcon-Sponsored Networking Lunch",
-        "title": "Buffet Lunch ",
+        "theme": "Networking Lunch",
+        "title": "Cultural Performance & Buffet Lunch ",
         "location": "Grand Ballroom",
         "speakers": [
           "-"
@@ -1368,40 +1373,25 @@
         "block": "13:10–13:50"
       },
       {
-        "time": "13:50–14:50",
+        "time": "13:50–14:30",
         "theme": "Keynote Plenary: Shaping the Future of Vision Innovation",
-        "title": "Keynote Lecture 1: From Discovery to Delivery — Building the Path to Vision Care at Scale",
-        "location": "Grand Ballroom",
-        "speakers": [
-          "Hugh TAYLOR (Australia)"
-        ],
-        "moderators": [],
-        "panelists": [],
-        "chairs": [
-          "Malvina EYDELMAN (U.S.)",
-          "Daniel TING (Singapore)"
-        ],
-        "description": "",
-        "block": "13:50–14:10"
-      },
-      {
-        "time": "13:50–14:50",
-        "theme": "Keynote Plenary: Shaping the Future of Vision Innovation",
-        "title": "Keynote Lecture 2: The DRD Cure Accelerator — A New Model for Translating Science into Impact",
+        "title": "Keynote Lecture 3: The DRD Cure Accelerator — A New Model for Translating Science into Impact",
         "location": "Grand Ballroom",
         "speakers": [
           "S. Robert LEVINE (U.S.)"
         ],
         "moderators": [],
         "panelists": [],
-        "chairs": [],
+        "chairs": [
+          "Malvina EYDELMAN (U.S.)"
+        ],
         "description": "",
-        "block": "14:10–14:30"
+        "block": "13:50–14:10"
       },
       {
-        "time": "13:50–14:50",
+        "time": "13:50–14:30",
         "theme": "Keynote Plenary: Shaping the Future of Vision Innovation",
-        "title": "Keynote Lecture 3: The Global Evidence Engine — How JAMA Ophthalmology Accelerates Innovation",
+        "title": "Keynote Lecture 4: The Global Evidence Engine — How JAMA Ophthalmology Accelerates Innovation",
         "location": "Grand Ballroom",
         "speakers": [
           "Neil BRESSLER (U.S.)"
@@ -1410,10 +1400,10 @@
         "panelists": [],
         "chairs": [],
         "description": "",
-        "block": "14:30–14:50"
+        "block": "14:10–14:30"
       },
       {
-        "time": "14:40–16:00",
+        "time": "14:30–16:00",
         "theme": "Session 5: Global Innovation Landscape in Retina",
         "title": "Opportunities and Challenges of Early-Stage Health Innovation in Singapore",
         "location": "Grand Ballroom",
@@ -1423,14 +1413,14 @@
         "moderators": [],
         "panelists": [],
         "chairs": [
-          "Daniel TING (Singapore)",
+          "Malvina EYDELMAN (U.S.)",
           "Stela VUJOSEVIC (Italy)"
         ],
         "description": "",
-        "block": "14:50–14:58"
+        "block": "14:30–14:38"
       },
       {
-        "time": "14:40–16:00",
+        "time": "14:30–16:00",
         "theme": "Session 5: Global Innovation Landscape in Retina",
         "title": "Shaping Eye Health Strategy – A Pharma Perspective",
         "location": "Grand Ballroom",
@@ -1441,12 +1431,26 @@
         "panelists": [],
         "chairs": [],
         "description": "",
-        "block": "14:58–15:06"
+        "block": "14:38–14:46"
       },
       {
-        "time": "14:40–16:00",
+        "time": "14:30–16:00",
         "theme": "Session 5: Global Innovation Landscape in Retina",
         "title": "The Future of Anti-VEGFs: Can We Re-define How We Treat Our Patients?",
+        "location": "Grand Ballroom",
+        "speakers": [
+          "Gregory KUNST (U.S.)"
+        ],
+        "moderators": [],
+        "panelists": [],
+        "chairs": [],
+        "description": "",
+        "block": "14:46–14:54"
+      },
+      {
+        "time": "14:30–16:00",
+        "theme": "Session 5: Global Innovation Landscape in Retina",
+        "title": "New Drug Pipelines in IRD Space",
         "location": "Grand Ballroom",
         "speakers": [
           "Sri MUDUMBA (U.S.)"
@@ -1455,10 +1459,10 @@
         "panelists": [],
         "chairs": [],
         "description": "",
-        "block": "15:14–15:22"
+        "block": "14:54–15:02"
       },
       {
-        "time": "14:40–16:00",
+        "time": "14:30–16:00",
         "theme": "Session 5: Global Innovation Landscape in Retina",
         "title": "New Drug Pipelines in AMD and DME: Can AI Help?",
         "location": "Grand Ballroom",
@@ -1469,10 +1473,10 @@
         "panelists": [],
         "chairs": [],
         "description": "",
-        "block": "15:22–15:30"
+        "block": "15:02–15:10"
       },
       {
-        "time": "14:40–16:00",
+        "time": "14:30–16:00",
         "theme": "Session 5: Global Innovation Landscape in Retina",
         "title": "Global Benchmark for AMD Algorithm Validation: Defining the Primary End Points for Clinical Trials",
         "location": "Grand Ballroom",
@@ -1483,10 +1487,10 @@
         "panelists": [],
         "chairs": [],
         "description": "",
-        "block": "15:30–15:38"
+        "block": "15:10–15:18"
       },
       {
-        "time": "14:40–16:00",
+        "time": "14:30–16:00",
         "theme": "Session 5: Global Innovation Landscape in Retina",
         "title": "Setting Standards for AI in Retinal Imaging: A Joint CCOI–IntRIS Consensus on AMD OCT",
         "location": "Grand Ballroom",
@@ -1497,25 +1501,38 @@
         "panelists": [],
         "chairs": [],
         "description": "",
-        "block": "15:38–15:46"
+        "block": "15:18–15:26"
       },
       {
-        "time": "14:40–16:00",
+        "time": "14:30–16:00",
+        "theme": "Session 5: Global Innovation Landscape in Retina",
+        "title": "TBC",
+        "location": "Grand Ballroom",
+        "speakers": [
+          "Elvin NG (U.S.)"
+        ],
+        "moderators": [],
+        "panelists": [],
+        "chairs": [],
+        "description": "",
+        "block": "15:26–15:34"
+      },
+      {
+        "time": "14:30–16:00",
         "theme": "Session 5: Global Innovation Landscape in Retina",
         "title": "Panel Discussion",
         "location": "Grand Ballroom",
         "speakers": [],
         "moderators": [],
         "panelists": [
-          "Malvina EYDELMAN (U.S.)",
           "Ram PALANKI (U.S.)"
         ],
         "chairs": [],
         "description": "",
-        "block": "15:46–16:10"
+        "block": "15:34–16:00"
       },
       {
-        "time": "14:40–16:00",
+        "time": "14:30–16:00",
         "theme": "Session 6: Imaging Innovation",
         "title": "Why Interoperability Will Define the Next Era of Innovation in Eye Care",
         "location": "Grand III, IV & Annex",
@@ -1529,10 +1546,10 @@
           "Christopher LEUNG (Hong Kong)"
         ],
         "description": "",
-        "block": "14:50–14:58"
+        "block": "14:30–14:38"
       },
       {
-        "time": "14:40–16:00",
+        "time": "14:30–16:00",
         "theme": "Session 6: Imaging Innovation",
         "title": "AI-Powered Imaging for Glaucoma Screening at Scale: The HKU × Orbis ROTA Experience",
         "location": "Grand III, IV & Annex",
@@ -1543,10 +1560,10 @@
         "panelists": [],
         "chairs": [],
         "description": "",
-        "block": "14:58–15:06"
+        "block": "14:38–14:46"
       },
       {
-        "time": "14:40–16:00",
+        "time": "14:30–16:00",
         "theme": "Session 6: Imaging Innovation",
         "title": "The Ground Truth for Deep Learning Models for Glaucoma Detection",
         "location": "Grand III, IV & Annex",
@@ -1557,10 +1574,10 @@
         "panelists": [],
         "chairs": [],
         "description": "",
-        "block": "15:06–15:14"
+        "block": "14:46–14:54"
       },
       {
-        "time": "14:40–16:00",
+        "time": "14:30–16:00",
         "theme": "Session 6: Imaging Innovation",
         "title": "Imaging Endpoints in Clinical Trials – Where Are We Heading?",
         "location": "Grand III, IV & Annex",
@@ -1571,10 +1588,10 @@
         "panelists": [],
         "chairs": [],
         "description": "",
-        "block": "15:14–15:22"
+        "block": "14:54–15:02"
       },
       {
-        "time": "14:40–16:00",
+        "time": "14:30–16:00",
         "theme": "Session 6: Imaging Innovation",
         "title": "AI/Imaging Startups: From Prototype to Practice",
         "location": "Grand III, IV & Annex",
@@ -1585,10 +1602,10 @@
         "panelists": [],
         "chairs": [],
         "description": "",
-        "block": "15:22–15:30"
+        "block": "15:02–15:10"
       },
       {
-        "time": "14:40–16:00",
+        "time": "14:30–16:00",
         "theme": "Session 6: Imaging Innovation",
         "title": "Using AI to Change Clinical Flow & Optimize Efficiency",
         "location": "Grand III, IV & Annex",
@@ -1599,10 +1616,10 @@
         "panelists": [],
         "chairs": [],
         "description": "",
-        "block": "15:30–15:38"
+        "block": "15:10–15:18"
       },
       {
-        "time": "14:40–16:00",
+        "time": "14:30–16:00",
         "theme": "Session 6: Imaging Innovation",
         "title": "Pinhole Puiloplasty for Irregular Cornea",
         "location": "Grand III, IV & Annex",
@@ -1613,10 +1630,10 @@
         "panelists": [],
         "chairs": [],
         "description": "",
-        "block": "15:38–15:46"
+        "block": "15:18–15:26"
       },
       {
-        "time": "14:40–16:00",
+        "time": "14:30–16:00",
         "theme": "Session 6: Imaging Innovation",
         "title": "Panel Discussion",
         "location": "Grand III, IV & Annex",
@@ -1625,10 +1642,10 @@
         "panelists": [],
         "chairs": [],
         "description": "",
-        "block": "15:46–16:10"
+        "block": "15:26–16:00"
       },
       {
-        "time": "16:40–18:00",
+        "time": "16:30–18:00",
         "theme": "Session 7: Robotics Innovation",
         "title": "Robotic Innovation in Ophthalmology",
         "location": "Grand Ballroom",
@@ -1642,10 +1659,10 @@
           "Stephen MCLEOD (U.S.)"
         ],
         "description": "",
-        "block": "16:40–16:48"
+        "block": "16:30–16:38"
       },
       {
-        "time": "16:40–18:00",
+        "time": "16:30–18:00",
         "theme": "Session 7: Robotics Innovation",
         "title": "Robotic Cataract Surgery – Threat or Remedy?",
         "location": "Grand Ballroom",
@@ -1656,10 +1673,10 @@
         "panelists": [],
         "chairs": [],
         "description": "",
-        "block": "16:48–16:56"
+        "block": "16:38–16:46"
       },
       {
-        "time": "16:40–18:00",
+        "time": "16:30–18:00",
         "theme": "Session 7: Robotics Innovation",
         "title": "Robotics and Automation in Ophthalmic Care Pathways",
         "location": "Grand Ballroom",
@@ -1670,10 +1687,10 @@
         "panelists": [],
         "chairs": [],
         "description": "",
-        "block": "16:56–17:04"
+        "block": "16:46–16:54"
       },
       {
-        "time": "16:40–18:00",
+        "time": "16:30–18:00",
         "theme": "Session 7: Robotics Innovation",
         "title": "Robotics in Vitreoretinal Surgeries",
         "location": "Grand Ballroom",
@@ -1684,10 +1701,10 @@
         "panelists": [],
         "chairs": [],
         "description": "",
-        "block": "17:04–17:12"
+        "block": "16:54–17:02"
       },
       {
-        "time": "16:40–18:00",
+        "time": "16:30–18:00",
         "theme": "Session 7: Robotics Innovation",
         "title": "Innovation and Regulation - Partners to Accelerate Development",
         "location": "Grand Ballroom",
@@ -1698,10 +1715,10 @@
         "panelists": [],
         "chairs": [],
         "description": "",
-        "block": "17:12–17:20"
+        "block": "17:02–17:10"
       },
       {
-        "time": "16:40–18:00",
+        "time": "16:30–18:00",
         "theme": "Session 7: Robotics Innovation",
         "title": "What Robotics and AI Will Change About Ophthalmic Surgery",
         "location": "Grand Ballroom",
@@ -1712,10 +1729,10 @@
         "panelists": [],
         "chairs": [],
         "description": "",
-        "block": "17:20–17:28"
+        "block": "17:10–17:18"
       },
       {
-        "time": "16:40–18:00",
+        "time": "16:30–18:00",
         "theme": "Session 7: Robotics Innovation",
         "title": "Enabling Autonomous Intelligence in Cataract Surgery",
         "location": "Grand Ballroom",
@@ -1726,10 +1743,10 @@
         "panelists": [],
         "chairs": [],
         "description": "",
-        "block": "17:28–17:36"
+        "block": "17:18–17:26"
       },
       {
-        "time": "16:40–18:00",
+        "time": "16:30–18:00",
         "theme": "Session 7: Robotics Innovation",
         "title": "From Innovation to Adoption: Regulating Robotics in Ophthalmology",
         "location": "Grand Ballroom",
@@ -1740,10 +1757,10 @@
         "panelists": [],
         "chairs": [],
         "description": "",
-        "block": "17:36–17:44"
+        "block": "17:26–17:34"
       },
       {
-        "time": "16:40–18:00",
+        "time": "16:30–18:00",
         "theme": "Session 7: Robotics Innovation",
         "title": "Panel Discussion",
         "location": "Grand Ballroom",
@@ -1752,7 +1769,7 @@
         "panelists": [],
         "chairs": [],
         "description": "",
-        "block": "17:44–18:00"
+        "block": "17:34–18:00"
       },
       {
         "time": "18:00–18:10",
