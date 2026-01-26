@@ -1687,7 +1687,8 @@
         "panelists": [],
         "chairs": [
           "Malvina EYDELMAN (U.S.)",
-          "Stephen MCLEOD (U.S.)"
+          "Stephen MCLEOD (U.S.)",
+          "Koh-Hei SONODA (Japan)"
         ],
         "description": "",
         "block": "16:30–16:38"
@@ -1709,10 +1710,10 @@
       {
         "time": "16:30–18:00",
         "theme": "Session 7: Robotics Innovation",
-        "title": "Robotics in Vitreoretinal Surgeries",
+        "title": "Innovation and Regulation - Partners to Accelerate Development",
         "location": "Grand Ballroom",
         "speakers": [
-          "Koh-Hei SONODA (Japan)"
+          "Marc D. de SMET (Switzerland)"
         ],
         "moderators": [],
         "panelists": [],
@@ -1723,10 +1724,10 @@
       {
         "time": "16:30–18:00",
         "theme": "Session 7: Robotics Innovation",
-        "title": "Innovation and Regulation - Partners to Accelerate Development",
+        "title": "What Robotics and AI Will Change About Ophthalmic Surgery",
         "location": "Grand Ballroom",
         "speakers": [
-          "Marc D. de SMET (Switzerland)"
+          "Binita ASHAR (U.S.)"
         ],
         "moderators": [],
         "panelists": [],
@@ -1737,10 +1738,10 @@
       {
         "time": "16:30–18:00",
         "theme": "Session 7: Robotics Innovation",
-        "title": "What Robotics and AI Will Change About Ophthalmic Surgery",
+        "title": "Robotics in Vitreoretinal Surgeries",
         "location": "Grand Ballroom",
         "speakers": [
-          "Binita ASHAR (U.S.)"
+          "Koh-Hei SONODA (Japan)"
         ],
         "moderators": [],
         "panelists": [],
