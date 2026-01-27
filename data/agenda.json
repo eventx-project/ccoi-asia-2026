@@ -600,8 +600,8 @@
         "moderators": [],
         "panelists": [],
         "chairs": [
-          "Daniel TING (Singapore)",
-          "Ygal ROTENSTREICH (Israel)"
+          "Marcus ANG (Singapore)",
+          "Daniel TING (Singapore)"
         ],
         "description": "",
         "block": "15:45–15:53"
@@ -1116,6 +1116,23 @@
       {
         "time": "11:30–12:50",
         "theme": "Session 3: Glaucoma Innovation",
+        "title": "CCOI and Glaucoma Innovation: Origins, Impact, and the Road Ahead",
+        "location": "Grand Ballroom",
+        "speakers": [
+          "Joel SCHUMAN (U.S.)"
+        ],
+        "moderators": [],
+        "panelists": [],
+        "chairs": [
+          "Joel SCHUMAN (U.S.)",
+          "Lama AL-ASWAD (U.S.)"
+        ],
+        "description": "",
+        "block": "11:30–11:37"
+      },
+      {
+        "time": "11:30–12:50",
+        "theme": "Session 3: Glaucoma Innovation",
         "title": "A Pattern-Based OCT Metric for Glaucoma Detection Outperforms Conventional Metrics",
         "location": "Grand Ballroom",
         "speakers": [
@@ -1128,7 +1145,7 @@
           "Lama AL-ASWAD (U.S.)"
         ],
         "description": "",
-        "block": "11:30–11:38"
+        "block": "11:37–11:44"
       },
       {
         "time": "11:30–12:50",
@@ -1142,7 +1159,7 @@
         "panelists": [],
         "chairs": [],
         "description": "",
-        "block": "11:38–11:46"
+        "block": "11:44–11:51"
       },
       {
         "time": "11:30–12:50",
@@ -1156,7 +1173,7 @@
         "panelists": [],
         "chairs": [],
         "description": "",
-        "block": "11:46–11:54"
+        "block": "11:51–11:58"
       },
       {
         "time": "11:30–12:50",
@@ -1170,7 +1187,7 @@
         "panelists": [],
         "chairs": [],
         "description": "",
-        "block": "11:54–12:02"
+        "block": "11:58–12:05"
       },
       {
         "time": "11:30–12:50",
@@ -1184,7 +1201,7 @@
         "panelists": [],
         "chairs": [],
         "description": "",
-        "block": "12:02–12:10"
+        "block": "12:05–12:12"
       },
       {
         "time": "11:30–12:50",
@@ -1198,7 +1215,7 @@
         "panelists": [],
         "chairs": [],
         "description": "",
-        "block": "12:10–12:18"
+        "block": "12:12–12:19"
       },
       {
         "time": "11:30–12:50",
@@ -1212,7 +1229,21 @@
         "panelists": [],
         "chairs": [],
         "description": "",
-        "block": "12:18–12:26"
+        "block": "12:19–12:26"
+      },
+      {
+        "time": "11:30–12:50",
+        "theme": "Session 3: Glaucoma Innovation",
+        "title": "Shaping Global Standards for Glaucoma Endpoints: What’s Next",
+        "location": "Grand Ballroom",
+        "speakers": [
+          "Lama AL-ASWAD (U.S.)"
+        ],
+        "moderators": [],
+        "panelists": [],
+        "chairs": [],
+        "description": "",
+        "block": "12:26–12:33"
       },
       {
         "time": "11:30–12:50",
@@ -1227,7 +1258,7 @@
         ],
         "chairs": [],
         "description": "",
-        "block": "12:26–12:50"
+        "block": "12:33–12:50"
       },
       {
         "time": "11:30–12:50",
@@ -1506,7 +1537,7 @@
       {
         "time": "14:30–16:00",
         "theme": "Session 5: Global Innovation Landscape in Retina",
-        "title": "TBC",
+        "title": "US Regulatory Perspective and Opportunities for Innovation",
         "location": "Grand Ballroom",
         "speakers": [
           "Elvin NG (U.S.)"
@@ -1656,24 +1687,11 @@
         "panelists": [],
         "chairs": [
           "Malvina EYDELMAN (U.S.)",
-          "Stephen MCLEOD (U.S.)"
+          "Stephen MCLEOD (U.S.)",
+          "Koh-Hei SONODA (Japan)"
         ],
         "description": "",
         "block": "16:30–16:38"
-      },
-      {
-        "time": "16:30–18:00",
-        "theme": "Session 7: Robotics Innovation",
-        "title": "Robotic Cataract Surgery – Threat or Remedy?",
-        "location": "Grand Ballroom",
-        "speakers": [
-          "David CHANG (U.S.)"
-        ],
-        "moderators": [],
-        "panelists": [],
-        "chairs": [],
-        "description": "",
-        "block": "16:38–16:46"
       },
       {
         "time": "16:30–18:00",
@@ -1687,21 +1705,7 @@
         "panelists": [],
         "chairs": [],
         "description": "",
-        "block": "16:46–16:54"
-      },
-      {
-        "time": "16:30–18:00",
-        "theme": "Session 7: Robotics Innovation",
-        "title": "Robotics in Vitreoretinal Surgeries",
-        "location": "Grand Ballroom",
-        "speakers": [
-          "Koh-Hei SONODA (Japan)"
-        ],
-        "moderators": [],
-        "panelists": [],
-        "chairs": [],
-        "description": "",
-        "block": "16:54–17:02"
+        "block": "16:38–16:46"
       },
       {
         "time": "16:30–18:00",
@@ -1715,7 +1719,7 @@
         "panelists": [],
         "chairs": [],
         "description": "",
-        "block": "17:02–17:10"
+        "block": "16:46–16:54"
       },
       {
         "time": "16:30–18:00",
@@ -1729,7 +1733,21 @@
         "panelists": [],
         "chairs": [],
         "description": "",
-        "block": "17:10–17:18"
+        "block": "16:54–17:02"
+      },
+      {
+        "time": "16:30–18:00",
+        "theme": "Session 7: Robotics Innovation",
+        "title": "Robotics in Vitreoretinal Surgeries",
+        "location": "Grand Ballroom",
+        "speakers": [
+          "Koh-Hei SONODA (Japan)"
+        ],
+        "moderators": [],
+        "panelists": [],
+        "chairs": [],
+        "description": "",
+        "block": "17:02–17:10"
       },
       {
         "time": "16:30–18:00",
@@ -1738,6 +1756,20 @@
         "location": "Grand Ballroom",
         "speakers": [
           "Shameema SIKDER (U.S.)"
+        ],
+        "moderators": [],
+        "panelists": [],
+        "chairs": [],
+        "description": "",
+        "block": "17:10–17:18"
+      },
+      {
+        "time": "16:30–18:00",
+        "theme": "Session 7: Robotics Innovation",
+        "title": "Robotic Cataract Surgery – Threat or Remedy?",
+        "location": "Grand Ballroom",
+        "speakers": [
+          "David CHANG (U.S.)"
         ],
         "moderators": [],
         "panelists": [],
