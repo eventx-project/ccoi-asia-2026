@@ -821,7 +821,7 @@
       {
         "time": "08:00–09:00",
         "theme": "Opening Session",
-        "title": "Keynote Lecture: From Discovery to Delivery — Building the Path to Vision Care at Scale",
+        "title": "Keynote Lecture 1: From Discovery to Delivery — Building the Path to Vision Care at Scale",
         "location": "Grand Ballroom",
         "speakers": [
           "Hugh TAYLOR (Australia)"
@@ -982,7 +982,7 @@
       {
         "time": "09:00–11:00",
         "theme": "Session 1: Defining the Future – Establishing Standard Terminology & Endpoints for Oculomics",
-        "title": "Using Oculomics to Enable Cardiovascular Risk Stratification",
+        "title": "Oculomics for Cardio-Kidney-Metabolic Health​​​",
         "location": "Grand Ballroom",
         "speakers": [
           "Michael MCCONNELL (U.S.)"
@@ -1065,9 +1065,7 @@
           "Zhen TIAN (Hong Kong/TrueSight)",
           "Mingguang HE (Hong Kong)",
           "Paisan RUAMVIBOONSUK (Thailand)",
-          "Emmett CUNNINGHAM (U.S.)",
           "Tien WONG (China)",
-          "Daniel TING (Singapore)",
           "Donald C. HOOD (U.S.)",
           "Rainny XIE (Singapore)"
         ],
@@ -1395,7 +1393,7 @@
       {
         "time": "13:50–14:30",
         "theme": "Keynote Plenary: Shaping the Future of Vision Innovation",
-        "title": "Keynote Lecture 3: The DRD Cure Accelerator — A New Model for Translating Science into Impact",
+        "title": "Keynote Lecture 2: The DRD Cure Accelerator — A New Model for Translating Science into Impact",
         "location": "Grand Ballroom",
         "speakers": [
           "S. Robert LEVINE (U.S.)"
@@ -1411,7 +1409,7 @@
       {
         "time": "13:50–14:30",
         "theme": "Keynote Plenary: Shaping the Future of Vision Innovation",
-        "title": "Keynote Lecture 4: The Global Evidence Engine — How JAMA Ophthalmology Accelerates Innovation",
+        "title": "Keynote Lecture 3: The Global Evidence Engine — How JAMA Ophthalmology Accelerates Innovation",
         "location": "Grand Ballroom",
         "speakers": [
           "Neil BRESSLER (U.S.)"
