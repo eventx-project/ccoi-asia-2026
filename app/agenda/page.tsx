@@ -273,8 +273,7 @@ function AgendaContent() {
                   )}
                 </div>
                 
-                <div className="overflow-x-auto pb-2 -mx-4 px-4">
-                  <div className="grid grid-cols-3 gap-4 min-w-[900px]">
+                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
                 {groupedSessions[theme].map((session, idx) => {
                   const timeString = session.block || session.time;
                   const timeDisplay = timeString.split(/[-–]/); // Split by hyphen or en-dash
@@ -383,7 +382,6 @@ function AgendaContent() {
                   </div>
                   );
                 })}
-                </div>
                 </div>
               </section>
             );
