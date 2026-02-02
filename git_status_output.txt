@@ -1,0 +1,20 @@
+ M .DS_Store
+ M app/layout.tsx
+ M lib/utils.ts
+ M public/images/speakers/david-chang.jpg
+ M public/manifest.json
+?? .vscode/tasks.json
+?? cleanup.sh
+?? debug-git.sh
+?? deploy_manifest.sh
+?? deployment_commit_hash.txt
+?? finish-merge.sh
+?? git_commit_hash.txt
+?? git_grep_log.txt
+?? git_status.txt
+?? git_status_output.txt
+?? latest_commit.txt
+?? merge_log.txt
+?? origin_commit.txt
+?? public/images/speakers/thibaut-chapron.jpg
+?? script_log.txt
