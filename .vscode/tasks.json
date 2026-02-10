@@ -1,0 +1,65 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run Debug Git Script",
+			"type": "shell",
+			"command": "./debug-git.sh",
+			"args": [],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "none"
+		},
+		{
+			"label": "Run Debug Git Script 2",
+			"type": "shell",
+			"command": "sh",
+			"args": [
+				"debug-git.sh"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "none"
+		},
+		{
+			"label": "Finish Merge and Push",
+			"type": "shell",
+			"command": "sh",
+			"args": [
+				"finish-merge.sh"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "none"
+		},
+		{
+			"label": "Run Deployment Script",
+			"type": "shell",
+			"command": "./deploy_manifest.sh",
+			"args": [],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "none"
+		},
+		{
+			"label": "Run Deployment Script via SH",
+			"type": "shell",
+			"command": "sh",
+			"args": [
+				"deploy_manifest.sh"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "none"
+		},
+		{
+			"label": "Get Git Status",
+			"type": "shell",
+			"command": "git status --porcelain > git_status_output.txt",
+			"args": [],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "none"
+		}
+	]
+}

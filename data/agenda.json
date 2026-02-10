@@ -357,7 +357,8 @@
         "moderators": [],
         "panelists": [
           "Michael REPKA",
-          "Seang Mei SAW"
+          "Seang Mei SAW",
+          "Mark BULLIMORE"
         ],
         "chairs": [],
         "description": "",
@@ -677,7 +678,7 @@
         "panelists": [],
         "chairs": [
           "Marcus ANG (Singapore)",
-          "Aude COUTURIER (France)"
+          "Daniel TING (Singapore)"
         ],
         "description": "",
         "block": "16:50–16:58"
@@ -776,7 +777,6 @@
         "title": "Welcome",
         "location": "Grand Ballroom",
         "speakers": [
-          "Malvina EYDELMAN (U.S.)",
           "Daniel TING (Singapore)"
         ],
         "moderators": [],
@@ -803,7 +803,21 @@
           "Daniel TING (Singapore)"
         ],
         "description": "",
-        "block": "08:03–08:10"
+        "block": "08:03–08:12"
+      },
+      {
+        "time": "08:00–09:00",
+        "theme": "Opening Session",
+        "title": "Cultural Performance: Face-Changing",
+        "location": "Grand Ballroom",
+        "speakers": [
+          "-"
+        ],
+        "moderators": [],
+        "panelists": [],
+        "chairs": [],
+        "description": "",
+        "block": "08:12–08:20"
       },
       {
         "time": "08:00–09:00",
@@ -817,21 +831,7 @@
         "panelists": [],
         "chairs": [],
         "description": "",
-        "block": "08:10–08:25"
-      },
-      {
-        "time": "08:00–09:00",
-        "theme": "Opening Session",
-        "title": "Keynote Lecture 2: The Role of Academic, Industrial and Governmental Collaboration in Facilitating Innovation: A Personal Silicon Valley Perspective",
-        "location": "Grand Ballroom",
-        "speakers": [
-          "Mark BLUMENKRANZ (U.S.)"
-        ],
-        "moderators": [],
-        "panelists": [],
-        "chairs": [],
-        "description": "",
-        "block": "08:25–08:40"
+        "block": "08:20–08:35"
       },
       {
         "time": "08:00–09:00",
@@ -843,13 +843,13 @@
         "panelists": [
           "Emmett CUNNINGHAM (U.S.)",
           "Hugh TAYLOR (Australia)",
-          "Mark BLUMENKRANZ (U.S.)",
+          "Adrienne GRAVES (U.S.)",
           "Malvina EYDELMAN (U.S.)",
           "Daniel TING (Singapore)"
         ],
         "chairs": [],
         "description": "",
-        "block": "08:40–09:00"
+        "block": "08:35–08:55"
       },
       {
         "time": "09:00–11:00",
@@ -983,7 +983,7 @@
       {
         "time": "09:00–11:00",
         "theme": "Session 1: Defining the Future – Establishing Standard Terminology & Endpoints for Oculomics",
-        "title": "Using Oculomics to Enable Cardiovascular Risk Stratification",
+        "title": "Oculomics for Cardio-Kidney-Metabolic Health​​​",
         "location": "Grand Ballroom",
         "speakers": [
           "Michael MCCONNELL (U.S.)"
@@ -1063,17 +1063,15 @@
         "moderators": [],
         "panelists": [
           "Anand SIVARAMAN (India/Remedio)",
-          "Zhen TIAN (Hong Kong/TrueSight)",
           "Mingguang HE (Hong Kong)",
           "Paisan RUAMVIBOONSUK (Thailand)",
-          "Emmett CUNNINGHAM (U.S.)",
           "Tien WONG (China)",
-          "Daniel TING (Singapore)",
           "Donald C. HOOD (U.S.)",
           "Rainny XIE (Singapore)"
         ],
         "chairs": [
-          "Mark BLUMENKRANZ (U.S.)"
+          "Emmett CUNNINGHAM (U.S.)",
+          "Daniel TING (Singapore)"
         ],
         "description": "",
         "block": "09:00–10:00"
@@ -1381,7 +1379,7 @@
       {
         "time": "12:50–13:50",
         "theme": "Networking Lunch",
-        "title": "Cultural Performance & Buffet Lunch ",
+        "title": "Buffet Lunch ",
         "location": "Grand Ballroom",
         "speakers": [
           "-"
@@ -1395,7 +1393,7 @@
       {
         "time": "13:50–14:30",
         "theme": "Keynote Plenary: Shaping the Future of Vision Innovation",
-        "title": "Keynote Lecture 3: The DRD Cure Accelerator — A New Model for Translating Science into Impact",
+        "title": "Keynote Lecture 2: The DRD Cure Accelerator — A New Model for Translating Science into Impact",
         "location": "Grand Ballroom",
         "speakers": [
           "S. Robert LEVINE (U.S.)"
@@ -1411,7 +1409,7 @@
       {
         "time": "13:50–14:30",
         "theme": "Keynote Plenary: Shaping the Future of Vision Innovation",
-        "title": "Keynote Lecture 4: The Global Evidence Engine — How JAMA Ophthalmology Accelerates Innovation",
+        "title": "Keynote Lecture 3: The Global Evidence Engine — How JAMA Ophthalmology Accelerates Innovation",
         "location": "Grand Ballroom",
         "speakers": [
           "Neil BRESSLER (U.S.)"
@@ -1433,7 +1431,7 @@
         "moderators": [],
         "panelists": [],
         "chairs": [
-          "Malvina EYDELMAN (U.S.)",
+          "Leanne LABRIOLA (U.S.)",
           "Stela VUJOSEVIC (Italy)"
         ],
         "description": "",
@@ -1677,6 +1675,7 @@
         "chairs": [
           "Malvina EYDELMAN (U.S.)",
           "Stephen MCLEOD (U.S.)",
+          "Shameema SIKDER (U.S.)",
           "Koh-Hei SONODA (Japan)"
         ],
         "description": "",

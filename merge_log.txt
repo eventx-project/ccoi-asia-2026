@@ -1,0 +1,9 @@
+Committing merge...
+[main ce0f94c] Merge branch 'staging' # Please enter a commit message to explain why this merge is necessary, # especially if it merges an updated upstream into a topic branch. # # Lines starting with '#' will be ignored, and an empty message aborts # the commit.
+Pushing to origin...
+remote: This repository moved. Please use the new location:        
+remote:   https://github.com/eventx-project/ccoi-asia-2026.git        
+To https://github.com/claudiatsoi/ccoi-asia-2026.git
+   a88b41f..ce0f94c  main -> main
+Verifying...
+Done
