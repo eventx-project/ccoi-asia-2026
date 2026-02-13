@@ -1,6 +1,7 @@
 import './globals.css';
 import BottomNav from './components/BottomNav';
 import { BASE_PATH } from '../lib/utils';
+import Script from 'next/script';
 
 export const metadata = {
   title: 'CCOI Asia 2026',
@@ -20,6 +21,33 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <head>
         <link rel="manifest" href={`${BASE_PATH}/manifest.json`} />
         <meta name="theme-color" content="#2E5B8D" />
+        {/* Google Analytics */}
+        <Script
+          src="https://www.googletagmanager.com/gtag/js?id=G-KKZNR92CCQ"
+          strategy="afterInteractive"
+        />
+        <Script id="google-analytics" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-KKZNR92CCQ');
+          `}
+        </Script>
+        <Script 
+          src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" 
+          strategy="afterInteractive" 
+        />
+        <Script id="onesignal-init" strategy="afterInteractive">
+          {`
+            window.OneSignalDeferred = window.OneSignalDeferred || [];
+            OneSignalDeferred.push(async function(OneSignal) {
+              await OneSignal.init({
+                appId: "57293a05-76b2-4634-9a20-10908b08f76f",
+              });
+            });
+          `}
+        </Script>
       </head>
       <body className="flex flex-col h-screen bg-bgLight overflow-hidden">
         <div className="flex-1 overflow-y-auto pb-24 relative" id="main-content">
