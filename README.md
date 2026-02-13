@@ -1,6 +1,6 @@
 # CCOI Asia-Pacific Innovation Forum 2026
 
-Conference PWA for CCOI Asia 2026 with Google Sheets integration.
+Conference PWA for CCOI Asia 2026
 
 ## Setup
 
